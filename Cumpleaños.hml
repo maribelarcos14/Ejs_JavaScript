@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    </head>
+    <meta charset="utf-8">
+    <title>Ejercicio 1.2 ¿Cuándo es tu cumpleaños?</title>
+    <h1>Ejercicio 1.2 Cuándo es tu cumpleaños</h1>
+    <style type="text/css">
+    </head>
+    <body>
+        const celta={
+            day: 27,
+            month: "Abril"
+        };
+    console.log("Mi cumpleaños es el ' + celta.day + ' de ' + celta.month);
+    </body>
+</html>
